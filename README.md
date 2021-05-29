@@ -1,3 +1,3 @@
 # identifying-disease-carriers
-Looking at datasets to develop a screening method to identify disease carriers using four sets of blood measurements ooooooooooooooooooo
-weeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Over the last decade, we have seen an explosion of machine learning research and applications. One application of machine learning techniques includes analysis of medical data – in particular, medical diagnosis for specialised diagnostic problems. Through application of statistical methods to data, we can develop screening procedures which can accurately diagnose patients for a rare genetic disorder.
+In this project I will aim aim to develop such a screening procedure to detect carriers more accurately from four blood sample measurements given that the current industry standard is to use m1 (only). To achieve this aim I will use exploratory analysis tools, linear discriminant analysis and quadratic discriminant analysis as classifier algorithms and Naïve Bayes on data across two files – one for healthy patients and one for carriers of the disease. 
